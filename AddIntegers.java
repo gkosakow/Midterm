@@ -1,4 +1,4 @@
-//some integer adding
+//some integer adding the numbers 50 and 51
 class Main {
 
   public static void main(String[] args) {
