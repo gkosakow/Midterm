@@ -5,7 +5,7 @@ class Main {
 
     System.out.println("Enter two numbers");
     int first = 50;
-    int second = 50;
+    int second = 51;
 
     System.out.println(first + " " + second);
 
